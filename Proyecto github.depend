@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1534560548 source:c:\users\netx\desktop\intro semana 5\proyecto github\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1534560723 c:\users\netx\desktop\intro semana 5\proyecto github\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1534560700 source:c:\users\netx\desktop\intro semana 5\proyecto github\funciones.c
+	"funciones.h"
+
+1535503003 source:c:\users\netx\desktop\proyecto github\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1535492724 c:\users\netx\desktop\proyecto github\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1535502517 source:c:\users\netx\desktop\proyecto github\funciones.c
+	"funciones.h"
+
